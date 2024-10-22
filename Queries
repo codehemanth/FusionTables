@@ -1,3 +1,144 @@
 Past the Select statements.
 
 THIS IS VSCODE EDITED CODE
+
+P2P
+
+PURCHASE ORDER DETAILS :
+
+PURCHASE ORDER NUMBER = {'TABLE':'PO_HEADERS_ALL' , 'COLUMN_NAME':'SEGMENT1', 'SAMPLE QUERY':'select * from PO_HEADERS_ALL WHERE SEGMENT1='US164975'}
+
+
+Procurement BU	US1 Business Unit
+Requisitioning BU	US1 Business Unit
+Sold-to Legal Entity	US1 Legal Entity
+Bill-to BU	US1 Business Unit
+Order	US164979
+Status	Pending Approval	
+Buyer	 Casey Brown
+Overriding Approver	 Karen Curtis
+Creation Date	10/22/24
+Checklist	
+Supplier	ABC Bank
+Supplier Site	 ABC Bank US1
+Supplier Contact	 Ralph Ivy
+Additional Contact Email	prodatafunds_1@gmail.com
+Communication Method	E-Mail
+Communication Email	ralph.ivy_evwb@oraclepdemos.com, prodatafunds_1...
+Cc	prodatafunds_2@gmail.com
+Bcc	prodatafunds_3@gmail.com
+Bill-to Location	Chicago
+Ship-to Location	Multiple
+Ordered	2,200.00USD
+Total Tax	161.00USD
+Total	2,361.00USD
+Description	This is a demo purchase 001
+Requisition	
+Source Agreement	
+Negotiation	
+Supplier Order	
+Master Contract	
+
+
+
+Terms
+Required Acknowledgment	Yes
+Acknowledge Within Days	7
+Payment Terms	Net 30
+Shipping Method	UPS
+Freight Terms	Buyer pays freight
+FOB	Buyer
+checked Requires signature
+
+Notes and Attachments
+Note to Supplier	Gift pack the parcel
+Note to Receiver	Happy to serve you
+Attachments	
+My Laptop Service			
+
+
+Additional Information
+Contract Type	LOCAL
+Contract Number	70005976
+Eligible for Rebate?	No
+
+
+Lines
+
+
+Line: 1
+	
+Sold-to Legal Entity	US1 Legal Entity
+Order	US164979
+Line Type	PRC_goods_computers
+Item	 AS06502
+Revision	A
+Description	Vision Networking Card
+Supplier Item	
+Supplier Configuration ID	
+Category Name	Miscellaneous
+Manufacturer	
+Manufacturer Part Number	
+Status	
+UOM	Each
+Quantity	3
+Base Price	
+500.00	USD
+Discount Type	
+Discount	
+Discount Reason	
+Price	500.00USD
+unchecked Negotiated
+Ordered	1,500.00USD
+Total Tax	105.00USD
+Total	1,605.00USD
+
+Shipping and Delivery
+Location	Miami
+Organization	001
+Requested Delivery Date	10/30/24
+Promised Delivery Date	10/25/24
+Shipping Method	UPS
+Destination Type	Inventory
+Subinventory	
+Requester	 Daniel Albert
+Deliver-to Location	Miami
+Requisition	
+
+Billing
+PO Charge Account	
+101.10.14100.000.000.000			
+Match Approval Level	3-Way
+Invoice Match Option	Order
+Invoice Close Tolerance Percent	0
+
+Project Details
+
+Project Number	
+Task Number	
+Expenditure Item Date	
+Expenditure Type	
+Expenditure Organization	
+Contract Number	
+Funding Source	
+
+Source Agreement
+
+Agreement	
+Document Style	
+Document Type	
+Procurement BU	
+
+
+Additional Information
+
+Context Prompt	
+
+Notes and Attachments
+
+Note to Supplier	
+Attachments	None	
+
+
+
+
