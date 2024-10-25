@@ -1,5 +1,7 @@
 -->image displayed
-Item	            AS06502
+Item AS15000        {'TABLE':'EGP_SYSTEM_ITEMS_B' , 'COLUMN_NAME':'ITEM_NUMBER', 'SAMPLE_QUERY':'select * from EGP_SYSTEM_ITEMS_B WHERE ITEM_NUMBER='AS06502'}
+
+Item	            AS06502       {'TABLE':'EGP_SYSTEM_ITEMS_B' , 'COLUMN_NAME':'ITEM_NUMBER', 'SAMPLE_QUERY':'select * from EGP_SYSTEM_ITEMS_B WHERE ITEM_NUMBER='AS06502'}          
 Description	        Vision Networking Card		
 Item Class	        Wireless Options		
 Approval Status	    Approved
